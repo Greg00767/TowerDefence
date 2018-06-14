@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 35f8b44a0eaee8d4c8eeea7075fa3544, type: 3}
+  m_Name: Location 1
+  m_EditorClassIdentifier: 
+  name: Location_1
+  objectTypes: {fileID: 11400000, guid: f9c5e1c9b641d474da055c2627eae3c2, type: 2}
+  wayPoints:
+  - {x: -35, y: 0, z: 0}
+  - {x: -30, y: 0, z: 5}
+  - {x: -25, y: 0, z: -10}
+  - {x: -15, y: 0, z: -12}
+  - {x: 0, y: 0, z: 15}
+  - {x: 10, y: 0, z: 5}
+  - {x: 15, y: 0, z: -15}
+  - {x: 20, y: 0, z: -15}
+  - {x: 35, y: 0, z: 0}
+  wavesData:
+  - {fileID: 11400000, guid: bf76efd37e7c27b48ade1a4597470768, type: 2}
+  - {fileID: 11400000, guid: 11924e16690e6c84686c986fd759a35b, type: 2}
+  - {fileID: 11400000, guid: b81e9a64106b40348bac7414944aea11, type: 2}
+  towers:
+  - {fileID: 11400000, guid: 625ce4fa69edeb246aca7925daae859d, type: 2}
+  - {fileID: 11400000, guid: fa0ae2a02b668dc468383e756112d0d0, type: 2}
+  - {fileID: 11400000, guid: 5d36a7ede58744b49896b67de9d8fd00, type: 2}
+  - {fileID: 11400000, guid: 33f8a34565cc3b14d8dea1cef8a8f8c1, type: 2}
+  - {fileID: 11400000, guid: 7b18caa0dc0869b4b830fdc4dab810e5, type: 2}

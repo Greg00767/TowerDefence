@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8771f96ceecbcdf48be01b36d0fcf6c0, type: 3}
+  m_Name: Enemy type 1
+  m_EditorClassIdentifier: 
+  name: "\u0412\u0440\u0430\u0433 1"
+  type: 0
+  sprite: {fileID: 21300000, guid: f2f4d6febec26514198f0ccdf1a97b4f, type: 3}
+  armor: 10
+  health: 100
+  killprice: 20
+  playerDamage: 5
+  moveSpeed: 4
